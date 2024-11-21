@@ -1,0 +1,8 @@
+iframe{
+    width: 100%;
+    heigth: 100%;
+    aspect-ratio: auto 150/100;
+}
+footer {
+    background-color: #11ffeeff;
+}

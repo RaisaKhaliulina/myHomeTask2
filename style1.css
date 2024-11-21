@@ -1,0 +1,22 @@
+
+
+body {
+    font-family: Arial, san-serif;
+    background-color: #fsf9fa;
+    width: 100%
+}
+
+
+h1 {
+    text-align: center;
+    
+}
+h2 {
+    text-align: center;
+}
+.input{
+    text-align: center;
+}
+footer {
+    background-color: #11ffeeff;
+}
